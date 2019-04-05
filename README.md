@@ -1,6 +1,6 @@
 ### Rails 6 and Tailwind CSS via Webpacker
 
-This repo is based on the  [Rails 6 and Tailwind CSS via Webpacker— Getting Started](https://medium.com/@davidteren/rails-6-and-tailwindcss-getting-started-42ba59e45393) Medium post
+This repo is based on the [Rails 6 and Tailwind CSS via Webpacker— Getting Started](https://medium.com/@davidteren/rails-6-and-tailwindcss-getting-started-42ba59e45393) Medium article.
 
 #### To get started: 
 
