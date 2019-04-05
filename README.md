@@ -17,9 +17,11 @@ This repo is based on the [Rails 6 and Tailwind CSS via Webpacker— Getting Sta
 	
 		rails s
 				
- - Open  one of the following in your browser;	
-	 [http://tailwind-app.lvh.me:3000](http://tailwind-app.lvh.me:3000/#)
+ - Open  one of the following in your browser;
+ 
+	 http://tailwind-app.lvh.me:3000
 	 or 
+	 http://localhost:3000/
 
 > Template from [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
