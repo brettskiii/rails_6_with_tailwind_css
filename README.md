@@ -1,24 +1,26 @@
-# README
+### Rails 6 and Tailwind CSS via Webpacker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is based on the  [Rails 6 and Tailwind CSS via Webpacker— Getting Started](https://medium.com/@davidteren/rails-6-and-tailwindcss-getting-started-42ba59e45393) Medium post
 
-Things you may want to cover:
+#### To get started: 
 
-* Ruby version
+	 # Pre-requisites;
+		## Ruby 2.5+
+		## Rails 6
+		## Bundler
 
-* System dependencies
+- Clone or download and unzip this repo
+- In the root directory run
+					
+		bundle
+- Start the Rails Server
+	
+		rails s
+				
+ - Open  one of the following in your browser;	
+	 [http://tailwind-app.lvh.me:3000](http://tailwind-app.lvh.me:3000/#)
+	 or 
 
-* Configuration
+> Template from [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
