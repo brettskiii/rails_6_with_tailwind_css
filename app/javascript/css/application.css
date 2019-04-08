@@ -5,14 +5,14 @@
 
 @tailwind utilities;
 
-.main-nav {
-    @apply flex items-center .justify-between flex-wrap .bg-grey-darkest .p-4 .pin;
-}
+/*.main-nav {*/
+/*    @apply flex items-center .justify-between flex-wrap .bg-grey-darkest .p-4 .pin;*/
+/*}*/
 
-.main-logo {
-    @apply block flex items-center flex-no-shrink text-white;
-}
+/*.main-logo {*/
+/*    @apply block flex items-center flex-no-shrink text-white;*/
+/*}*/
 
-.menu-item {
-    @apply no-underline block p-4 text-grey-darker;
-}
+/*.menu-item {*/
+/*    @apply no-underline block p-4 text-grey-darker;*/
+/*}*/
